@@ -265,6 +265,15 @@ Responsabilidades del equipo de desarrollo de base de datos
 
 El desarrollo de los Sprints fueron elaborados para semanas para la asignacion las cuales en total fueron 12 Sprints en total para el desarrollo de 3 meses de desarrollo del producto a presentar el cual acontinuacion se describira cual fue su desarrollo y las actividades que se desarrollaron.
 
+## ` `Modulo de prducto<a name="modulo"/>
+
+|  No 	| Nombre  	| Descripcion  	|
+|---	|---	|---	|
+|  1 	| Control de ingresos 	| En este modulo se llevara el control de los siguientes: 1. Manejo de clientes a ingresar 2. Manejo de clientes a comprar paquetes comprados por paypal 3. manejo de clientes a comprar paquetes por tarjeta de debito/credito 4. Manejo de los clientes en comprar mas de un paquete de juego 5. manejo de cliente en comprar combo sin restricciones|
+|  2 	| Corte de caja 	| En este modulo se llevara el contro de los siguientes 1. manejo de los ingresos en la ventanilla de ingreso 2. control de las compras hechas en paypal 3. maenejo de las compras realizadas con tarjeta de debito/credito 4. control de ganancias y cuadres a la hora del cierre de caja|
+|  3 	| Estadistica de juegos  	| En este modulo se llevara el control de los siguientes: 1. Control de clientes en ingresar a los juegos  2. control de los combos con los que utilizaron el juego 3. control de los clientes en utilizar el combo sin restricciones 	|
+
+
 ## ` `Prototipo de interfaz<a name="Prototipo"/>
 
 ### ` `Vista de usuario<a name="Usuario"/>
