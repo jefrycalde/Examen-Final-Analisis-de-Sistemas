@@ -12,7 +12,7 @@
     - [Fundamentacion](#fundamentacion)
     - [Valores de trabajo](#valores)
 * [Calendario de revisiones](#Calendario)
-* [Calendario de actividades](#Actividades)
+* [Calendario de actividades](#calendarioacti)
 * [Cronograma de actividades](#Actividades)
 * [Artefactos](#Artefactos)
     - [Pila de producto](#pilaprod)
@@ -241,7 +241,8 @@ Responsabilidades del equipo de desarrollo de base de datos
 
 ## ` `Desarrollo de Sprint<a name="dessprint"/>
 
-El desarrollo de los Sprints fueron de un dia cada uno de desarrollo de asignacion los cuales en total fueron 12 Sprints en total de desarrollo los cuales se describiran acontinuacion cual fue su desarrollo y las actividades que se desarrollaron.
+
+El desarrollo de los Sprints fueron elaborados para semanas para la asignacion las cuales en total fueron 12 Sprints en total para el desarrollo de 3 meses de desarrollo del producto a presentar el cual acontinuacion se describira cual fue su desarrollo y las actividades que se desarrollaron.
 
 Sprint#1
 
