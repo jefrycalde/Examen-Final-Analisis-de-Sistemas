@@ -247,3 +247,9 @@ El desarrollo de los Sprints fueron elaborados para semanas para la asignacion l
 ## ` `Prototipo de interfaz<a name="Prototipo"/>
 
 ### ` `Vista de usuario<a name="Usuario"/>
+
+![](https://files.catbox.moe/0zi994.png)
+![](https://files.catbox.moe/09tqkx.png)
+![](https://files.catbox.moe/ztfnl2.png)
+![](https://files.catbox.moe/gg6st6.png)
+![](https://files.catbox.moe/4s0gwf.png)
