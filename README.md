@@ -3,6 +3,7 @@
 * [Descripción de la metodología de trabajo](#DESCRIPCION)
     - [Introduccion](#INTRODUCCION)
     - [Proposito del proyecto](#propocito)
+    - [Funcionalidades del proyecto](#Funcionalidadproyect)
     - [Proposito del documento](#propocitodocumento)
     - [Presentacion del problema del proyecto](#Presentacion2)
 * [Metodologia seleccionada](#METODOLOGIA)
@@ -54,7 +55,24 @@ Este documento se presenta el analisis desarrollado sobre el producto de Billete
 
 * Realizar una aplicacion que lleve el control de ingresos de la empresa entre el usuario y el cliente para la mejora de experiencia del usuario a la hora de ingresar a la empresa.
 
+### ` `Funcionalidades del proyecto<a name="Funcionalidadproyect"/>
 
+* Control de ingresos
+
+Se debe tener un control de ingresos en el negocio los cuales se haran por medio de forma electronica utilizando tarjeta de credito/debito las cuales tendran un registro para el usuario que haga los descuentos y los ingresos a los juegos y para las personas que compren el combo sin limites tengan una fecha maxima.
+
+* Control de egresos
+
+Se debe llevar un control de egresos para poder tener un manejo completo del sistema y poder ver las ganancias de la empresa.
+
+* Cortes de caja diarios
+
+Se debera tener un corte de caja diario para la visualizacion de las ganancias del producto y ver si concuerda el reporte de ventas con el reporte de usuarios que ingresaron a los juegos selecionados.
+
+
+* Estaditica de los juegos
+
+Se mostrara una estadistica del uso de los juegos y de las tickets de los usuarios que se selecionaron para el uso de hay y llevar un mejor manero de los juegos que se utilizan mas.
 
 
 ### ` `Proposito del documento<a name="propocitodocumento"/>
