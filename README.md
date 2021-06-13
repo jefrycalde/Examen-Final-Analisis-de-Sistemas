@@ -134,27 +134,28 @@ Los valores que deben ser practicados por todos los miembros involucrados en el 
 
 |  Sprints 	    | Actividad  |  Screenshot  	|
 |---	        |---	     |---	            |
-|  Sprint#1 17/05/2021	| [Primera presentacion de avances del proyecto](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/1)	|![](https://files.catbox.moe/72gb98.png)	|
-|  Sprint#1 17/05/2021 	| [Pedido de base para el sensor de temperatura](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/7)|![](https://files.catbox.moe/fk207p.png) |
-|  Sprint#1 17/05/2021 	| [Recepcion de materiales](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/5)  	|   ![](https://files.catbox.moe/zuaku3.png)	|
-|  Sprint#1 17/05/2021 	| [Programacion de contador utilizando HC-SR05](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/10)  	|   ![](https://files.catbox.moe/b2ndeh.png)	|
-|  Sprint#2 18/05/2021 	| [Diseño del sistema de control de temperatura](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/11)  	|   ![](https://files.catbox.moe/fbk52h.png)	|
-|  Sprint#2 18/05/2021 	| [Diseño del sistema de aforo usando HC-SR05](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/9)  	|   ![](https://files.catbox.moe/6czy2v.png)	|
-|  Sprint#2 18/05/2021 	| [Programacion de medidor de temperatura utilizando GY-906](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/12)  	|   ![](https://files.catbox.moe/81vp5l.png)	|
-|  Sprint#3 19/05/2021 	| [ Programacion del buzzer alertando alta temperatura](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/14)  	|   ![](https://files.catbox.moe/kcb97v.png)	|
-|  Sprint#3 19/05/2021 	| [Programación del buzzer alertando aforo completo](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/13)  	|   ![](https://files.catbox.moe/ebh2n2.png)	|
-|  Sprint#4 20/05/2021 	| [Diseño del sistema de temperatura de la pecera](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/15)  	|   ![](https://files.catbox.moe/uvqs07.png)	|
-|  Sprint#6 22/05/2021 	| [Calibracion de los sensores](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/6)  	|   ![](https://files.catbox.moe/07cuwn.png)	|
-|  Sprint#6 22/05/2021 	| [Segunda presentacion de avances del proyecto](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/8)  	|   ![](https://files.catbox.moe/qo0zba.png)	|
-|  Sprint#7 23/05/2021 	| [Programacion del control de temperatura de la pecera](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/16)  	|   ![](https://files.catbox.moe/7yw8oe.png)	|
-|  Sprint#7 23/05/2021 	| [Reunión de planificación #2](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/17)  	|   ![](https://files.catbox.moe/uwtdps.png)	|
-|  Sprint#8 24/05/2021 	| [Finalización del sensor de temperatura sin contacto](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/19)  	|   ![](https://files.catbox.moe/2xfkqm.png)	|
-|  Sprint#9 25/05/2021 	| [Finalización del control de aforo](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/21)  	|   ![](https://files.catbox.moe/q7i1re.png)	|
-|  Sprint#9 25/05/2021 	| [Finalización del control de PH](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/22)  	|   ![](https://files.catbox.moe/25ps56.png)	|
-|  Sprint#10 26/05/2021 	| [Programacion de control de ph de la pecera](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/23)  	|   ![](https://files.catbox.moe/5hpy4a.png)	|
-|  Sprint#10 26/05/2021 	| [Finalización del control de temperatura](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/20)  	|   ![](https://files.catbox.moe/uepmo9.png)	|
-|  Sprint#11 27/05/2021 	| [Programacion del oxigenador de la pecera](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/24)  	|   ![](https://files.catbox.moe/lq0s0b.png)	|
-|  Sprint#12 28/05/2021 	| [Programacion del alimentador automatico de la pecera](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/25)  	|   ![](https://files.catbox.moe/1twams.png)	|
+|  Sprint#1 Semana 1	| [Presentacion de Propuesta y toma de datos del producto](https://github.com/jefrycalde/Examen-Final-Analisis-de-Sistemas/issues/1)	|![](https://files.catbox.moe/uig5j2.png)	|
+|   Sprint#2 Semana 2 	| [Desarrollo de prototipo ](https://github.com/jefrycalde/Examen-Final-Analisis-de-Sistemas/issues/2)|![](https://files.catbox.moe/1p27sa.png) |
+|   Sprint#2 Semana 2 	| [Creación de vistas a presentar en el proyecto](https://github.com/jefrycalde/Examen-Final-Analisis-de-Sistemas/issues/3)  	|   ![](https://files.catbox.moe/om5eb2.png)	|
+|  Sprint#3 Semana 3 	| [Presentación de vistas del proyecto](https://github.com/jefrycalde/Examen-Final-Analisis-de-Sistemas/issues/4)  	|   ![](https://files.catbox.moe/oybt0d.png)	|
+|  Sprint#3 Semana 3 	| [Presentación de funcionalidades de proyecto a desarrollar](https://github.com/jefrycalde/Examen-Final-Analisis-de-Sistemas/issues/5)  	|   ![](https://files.catbox.moe/rrx7sn.png)	|
+|  Sprint#4 Semana 4 	| [Reunión con el equipo de proyecto](https://github.com/jefrycalde/Examen-Final-Analisis-de-Sistemas/issues/9)  	|   ![](https://files.catbox.moe/y2ug92.png)	|
+|  Sprint#4 Semana 4 	| [Planificacion del proyecto](https://github.com/jefrycalde/Examen-Final-Analisis-de-Sistemas/issues/6)  	|   ![](https://files.catbox.moe/9qwy1c.png)	|
+|  Sprint#4 Semana 4 	| [ Creación de actividades del proyecto](https://github.com/jefrycalde/Examen-Final-Analisis-de-Sistemas/issues/7)  	|   ![](https://files.catbox.moe/fcq4zp.png)	|
+|  Sprint#5 Semana 5 	| [Diseño del diagrama ER](https://github.com/jefrycalde/Examen-Final-Analisis-de-Sistemas/issues/15)  	|   ![](https://files.catbox.moe/xld8wb.png)	|
+|  Sprint#5 Semana 5  	| [Diseño de la aplicación](https://github.com/jefrycalde/Examen-Final-Analisis-de-Sistemas/issues/14)  	|   ![](https://files.catbox.moe/xkc08h.png)	|
+|  Sprint#6 Semana 6 	| [Desarrollo de la aplicación](https://github.com/jefrycalde/Examen-Final-Analisis-de-Sistemas/issues/11)  	|   ![](https://files.catbox.moe/yab2mb.png)	|
+|  Sprint#6 Semana 6 	| [Desarrollo de la aplicación para dispositivos móviles](https://github.com/jefrycalde/Examen-Final-Analisis-de-Sistemas/issues/12)  	|   ![](https://files.catbox.moe/a64ouw.png)	|
+|  Sprint#7 Semana 7 	| [Desarrollo de la base de datos](https://github.com/jefrycalde/Examen-Final-Analisis-de-Sistemas/issues/13)  	|   ![](https://files.catbox.moe/x0ho4p.png)	|
+|  Sprint#8 Semana 8 	| [Presentación de avances del proyecto](https://github.com/jefrycalde/Examen-Final-Analisis-de-Sistemas/issues/16)  	|   ![](https://files.catbox.moe/nikn4y.png)	|
+|  Sprint#9 Semana 9 	| [Ejecución de pruebas del proyecto](https://github.com/jefrycalde/Examen-Final-Analisis-de-Sistemas/issues/18)  	|   ![](https://files.catbox.moe/cg97dr.png)	|
+|  Sprint#10 Semana 10  	| [Pruebas a la base de datos](https://github.com/jefrycalde/Examen-Final-Analisis-de-Sistemas/issues/19)  	|   ![](https://files.catbox.moe/biaxji.png)	|
+|  Sprint#11 Semana 11 	| [Desarrollo del manual usuario](https://github.com/jefrycalde/Examen-Final-Analisis-de-Sistemas/issues/17)  	|   ![](https://files.catbox.moe/necxry.png)	|
+|  Sprint#11 Semana 11	| [Finalización del proyecto](https://github.com/jefrycalde/Examen-Final-Analisis-de-Sistemas/issues/20)  	|   ![](https://files.catbox.moe/rxlbha.png)	|
+|  Sprint#11 Semana 11	| [Desarrollo del documento del proyecto](https://github.com/jefrycalde/Examen-Final-Analisis-de-Sistemas/issues/10)  	|   ![](https://files.catbox.moe/8aufbv.png)	|
+|  Sprint#12 Semana 12 	| [Entrega del manual usuario](https://github.com/jefrycalde/Examen-Final-Analisis-de-Sistemas/issues/21)  	|   ![](https://files.catbox.moe/bw3ap7.png)	|
+|  Sprint#12 Semana 12 	| [Capacitacion de la aplicacion](https://github.com/jefrycalde/Examen-Final-Analisis-de-Sistemas/issues/22)  	|   ![](https://files.catbox.moe/7erxv7.png)	|
+|  Sprint#12 Semana 12 	| [Entrega de la aplicacion](https://github.com/jefrycalde/Examen-Final-Analisis-de-Sistemas/issues/23)  	|   ![](https://files.catbox.moe/3verjv.png)	|
 
 
 
