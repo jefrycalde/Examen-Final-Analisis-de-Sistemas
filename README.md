@@ -180,27 +180,9 @@ Informacion
 
 Es donde se presenta los requisitos del sistema o del usuarion en esta metodologia
 
-Medidor De Temperatura
+Billetera Electronica para Juegos de Feria
 
-Sistema que sea capaz de medir la temperatura de las personas, que al momento 
-de que esta pase el límite de temperatura (67°) este avise por medio de un buzzer. 
-Además de que también llevara el conteo de las personas que se encuentren 
-adentro del establecimiento
-
-Control de Pecera Automatizada
-
-Sistema que sea capaz de medir la temperatura en la que se encuentra el agua de 
-la pecera, oxigenarla por medio de un relay y que cuenta con un medidor de pH.
-Cuando el sistema detecte que la temperatura se encuentra fuera de los límites, 
-este avisara por medio de un buzzer.
-
-¿Cómo se va realizar?
-
-Utilizando métodos de electrónica, la idea es poder desarrollar los controles para 
-el fácil manejo de temperatura de las personas que entren en el negocio por medio 
-de dispositivos electrónicos y al mismo tiempo el control del manejo de una 
-pecera para el aviso del dueño.
-
+Es un software que por medio de una aplicacion de celular el usuario podra contratar los paquetes ofrecido y por forma electronica podra hacer el pago con su tarjeta de credito/debito sin necesidad de interactuar con un empleado, la aplicacion podra hacerce mas de una compra y el usuario podra llevar el control de ingresos, cortes de caja y llevar una estdistica de los juegos mas utilizados.
 
 
 
@@ -208,10 +190,6 @@ pecera para el aviso del dueño.
 
 Es donde se presenta los requisitos y las actividades desarrolladas por el equipo del proyecto y donde se detalla los implicados y las responsabilidades
 
-Responsabilidades del gestor del producto
-
- - Presencia la supervicion del proyecto y de los avances durante las faces del proyecto
- - Realiza las instrucciones necesarias para el desarrollo del proyecto
 
 Resposabilidades del Scrum Manager
 
@@ -225,10 +203,11 @@ Responsabilidades del equipo de desarrollo
  - Resolucion de dudas entre el cliente y el Scrum Manager
  - Desarrolla las actividades presentadas
 
-Responsabilidades del equipo de diseño
+Responsabilidades del equipo de desarrollo de base de datos
 
  - Realiza las actividades presentadas
- - Resolucion de dudas entre el equipo de desarrollo
+ - Realizacion de las relaciones de la base de datos
+ - Implementacion de metodos de seguridad en la base de datos
 
 ## ` `Cuadros sobre el desarrollo del proyecto<a name="desproy"/>
  
