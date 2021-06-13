@@ -244,47 +244,6 @@ Responsabilidades del equipo de desarrollo de base de datos
 
 El desarrollo de los Sprints fueron elaborados para semanas para la asignacion las cuales en total fueron 12 Sprints en total para el desarrollo de 3 meses de desarrollo del producto a presentar el cual acontinuacion se describira cual fue su desarrollo y las actividades que se desarrollaron.
 
-Sprint#1
+## ` `Prototipo de interfaz<a name="Prototipo"/>
 
-Los sprints desarrollados fueron en total 4 actividades desarrolladas las cuales tenian como fecha de vencimiento el 17/05/2021 los cuales se ya se mencionaron en la actividad anterior con sus respectivas descripciones.
-
-Sprint#2
-
-Los sprints desarrollados fueron en total 3 actividades desarrolladas las cuales tenian como fecha de vencimiento el 18/05/2021 los cuales se ya se mencionaron en la actividad anterior con sus respectivas descripciones.
-
-Sprint#3
-
-Los sprints desarrollados fueron en total 2 actividades desarrolladas las cuales tenian como fecha de vencimiento el 19/05/2021 los cuales se ya se mencionaron en la actividad anterior con sus respectivas descripciones.
-
-Sprint#4
-
-Los sprints desarrollados fueron en total 1 actividades desarrolladas las cuales tenian como fecha de vencimiento el 20/05/2021 los cuales se ya se mencionaron en la actividad anterior con sus respectivas descripciones.
-
-Sprint#6
-
-Los sprints desarrollados fueron en total 2 actividades desarrolladas las cuales tenian como fecha de vencimiento el 22/05/2021 los cuales se ya se mencionaron en la actividad anterior con sus respectivas descripciones.
-
-Sprint#7
-
-Los sprints desarrollados fueron en total 2 actividades desarrolladas las cuales tenian como fecha de vencimiento el 23/05/2021 los cuales se ya se mencionaron en la actividad anterior con sus respectivas descripciones.
-
-Sprint#8
-
-Los sprints desarrollados fueron en total 1 actividades desarrolladas las cuales tenian como fecha de vencimiento el 24/05/2021 los cuales se ya se mencionaron en la actividad anterior con sus respectivas descripciones.
-
-Sprint#9
-
-Los sprints desarrollados fueron en total 2 actividades desarrolladas las cuales tenian como fecha de vencimiento el 25/05/2021 los cuales se ya se mencionaron en la actividad anterior con sus respectivas descripciones.
-
-Sprint#10
-
-Los sprints desarrollados fueron en total 2 actividades desarrolladas las cuales tenian como fecha de vencimiento el 26/05/2021 los cuales se ya se mencionaron en la actividad anterior con sus respectivas descripciones.
-
-Sprint#11
-
-Los sprints desarrollados fueron en total 1 actividades desarrolladas las cuales tenian como fecha de vencimiento el 27/05/2021 los cuales se ya se mencionaron en la actividad anterior con sus respectivas descripciones.
-
-Sprint#12
-
-Los sprints desarrollados fueron en total 4 actividades desarrolladas las cuales tenian como fecha de vencimiento el 28/05/2021 los cuales se ya se mencionaron en la actividad anterior con sus respectivas descripciones.
-
+### ` `Vista de usuario<a name="Usuario"/>
