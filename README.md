@@ -13,6 +13,7 @@
     - [Valores de trabajo](#valores)
 * [Calendario de revisiones](#Calendario)
 * [Calendario de actividades](#Actividades)
+* [Cronograma de actividades](#Actividades)
 * [Artefactos](#Artefactos)
     - [Pila de producto](#pilaprod)
     - [Pila de sprint](#pilasprint)
