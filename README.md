@@ -4,7 +4,7 @@
     - [Introduccion](#INTRODUCCION)
     - [Proposito del proyecto](#propocito)
     - [Proposito del documento](#propocitodocumento)
-    - [Alcance](#alcance)
+    - [Presentacion del problema del proyecto](#Presentacion2)
 * [Metodologia seleccionada](#METODOLOGIA)
     - [En que consiste la metodologia Scrum](#Crum)
     - [Por que se escogio el metodo Scrum](#eligio)
@@ -28,11 +28,13 @@
 ## ` `Personal y roles del proyecto<a name="roles"/>
 
 
-|  Integrante       | Carnet  	    | Rol  	        |
+|  Integrante       | DPI  	    | Rol  	        |
 |---	            |---	        |---	        |
-|  Jefry Calderon 	| 18-10554  	| Scrum Master/Product Owner  |
-|  Esdras Chigna 	| 18-8590 	    | Desarrollado/Diseño	|
-|  Alfredo Loyo 	| 18-3306     	| Desarrollador/Diseño |
+|  Jefry Calderon 	| 3370174251910  	| Scrum Master/Product Owner  |
+|  Participante 2 	| xxxxxxxxx 	    | Desarrollador	|
+|  Participante 3 	| xxxxxxxxx     	| Desarrollador |
+|  Participante 4 	| xxxxxxxxx     	| Desarrollador de base de datos |
+|  Participante 5	| xxxxxxxxx     	| Desarrollador de base de datos |
 
 
 ## ` `Descripción de la metodología de trabajo<a name="DESCRIPCION"/>
@@ -44,31 +46,30 @@
 
 ### ` `Introduccion<a name="INTRODUCCION"/>
 
-Este documento presenta el analisis desarrollado sobre los proyectos llamados control de pecera y control de temperatura donde se describe la documentacion realizada en el proyecto y la cual se desarrollo en el donde se describe el ciclo de vida del proyecto de forma interactiva e incremental, las herramientas utilizadas, los materiales, el seguimiento del proyectos, las asignaciones, los avances y las responsabilidades de cada intengrande mencionado en el siguiente documento.
+Este documento se presenta el analisis desarrollado sobre el producto de Billetera Electronica para Juegos de Feria donde se describre la documentacion realizada en el transcurso del producto en donde se describe la metodologia ocupada, el ciclo de vida del producdo de forma interactiva y incremental, las herramientas utilizadas, los materiales, el seguimiento que se debe tener, las asignaciones a cada integrante del equipo y las responsabilidades de cada uno.
 
 
 
 
 ### ` `Proposito del proyecto<a name="propocito"/>
 
-* Realizar un control de aforo y temperatura para poder mejorar el control que se solicitan actualmente en los diferentes tipos de negocios existentes para poder llevar un mayor control de las personas que estan ingresando.
+* Realizar una aplicacion que facilite la compra de tickets al usuario para el uso en la empresa y asi mejorar la experiencia del usuario y el cliente a comprar la ticket.
 
-* Realizar un control de pecera para tener un mejor manejo de la temperatura, ph, alimetacion y oxigenacion del entorno en que se encuentran los peces .
+* Realizar una aplicacion que lleve el control de ingresos de la empresa entre el usuario y el cliente para la mejora de experiencia del usuario a la hora de ingresar a la empresa.
 
 
 
 
 ### ` `Proposito del documento<a name="propocitodocumento"/>
 
-Poder brindar la de mejor manera la informacion del proyecto a las personas implicadas en el desarrollo del proyecto, y de esta manera lograr un mejor progreso y conocimiento del mismo.
+Poder brindar la informacion necesaria para las personas implicadas en el funcionamiento del desarrollo del producto, y de esta forma mejorar el proceso y el conocimiento del mismo producto.
 
 
 
 
-### ` `Alcance<a name="alcance"/>
+### ` `Presentacion del problema del proyecto<a name="Presentacion2"/>
 
-1. Desarrollar un prototipo de Medidor temperatura para que un colegio tenga mejor control de cuantos niños se encuentran en las aulas.
-1. Desarrollar un control de pecera para mejoramiento de vida de los peces.
+Se pide desarrollar una aplicacion de Billetera Electronica para Juegos de Feria la cual la cual funcinara por medio de una aplicacion de un paquete de juegos el usuario prodra elegir los diferentes combos que tendra la empresa, luego de elegirlo solo debera acercar su telefono el cual ocasiona que se descuente cada juego hasta llegar el punto de terminar su saldo comprado o en el caso de comprar un paquete sin limite hasta que se termine el dia comprado.
 
 
 
@@ -84,7 +85,7 @@ La metodologia seleccionada para este documento fue la metodologia Scrum el cual
 
 ### ` `¿En que consiste la metodologia Scrum?<a name="Crum"/>
 
-Es un marco de trabajo de desarrollo agil que se aplican de manera regular un conjunto de buenas practicas para trabajar colaborativamente en equipo y asi poder obtener un mejor resultado posible de proyectos que se caracterizan por adoptar una estrategia de desarrollo incremental en lugar de planificar y la ejecucion del producto ademas de basar la calidad del resultado mas en el conocimiento de las personas en equipos auto organizados.
+La metodologia Scrum es una metodologia de desarrollo agil que se aplican de manera regular a un conjunto de buenas practicas para trabajar colaborativamente en equipo y asi poder obtener el resultado propuesto en el menor tiempo posible el cual se caracteriza por optar una mejor estrategia de desarrollo incremental donde la planificacion va de la mano con la ejecucion del producto ademas que se tiene un mejor conocimiento de las personas en equipos auto organizados.
 
 ![](https://files.catbox.moe/h8lykg.png)
 
@@ -94,7 +95,7 @@ Es un marco de trabajo de desarrollo agil que se aplican de manera regular un co
 
 ### ` `¿Porque se escogio el metodo Scrum?<a name="eligio"/>
 
-La razon de elegir el metodo Scrum es por el desarrollo agil y veloz que tiene por que se involucran todos los integrantes del proyecto y al mismo tiempo todos pueden participar en las actividades del proyecto para poder tener un desarrollo rapido y eficaz, ademas que se puede obtener una planificacion y la ejecucion del mismo se obtiene por el desarrollo de los usuarios.
+Se escogio la metodologia Scrum para tener un desarrollo agil y veloz que tiene por la razon que se involucran todos los integrantes del proyecto y al mismo tiempo todos los integrantes podemos interacturar con las actividades del proyecto para poder tener un mejor dearrollo rapido y eficaz, las cual se puede tener una mejor planificacion y ejecucion del mismo para el desarrollo de los usuarios.
 
 
 
@@ -102,13 +103,7 @@ La razon de elegir el metodo Scrum es por el desarrollo agil y veloz que tiene p
 ## ` `Descripción General del proyecto<a name="GENERAL"/>
 ### ` `Fundamentación<a name="fundamentacion"/>
 
-1. Medidor de temperatura
-
-Sistema que es capaz de medir la temperatura de las personas, que al momento de que esta pase el límite de temperatura (67°) este avise por medio de un buzzer. Además de que también llevara el conteo del ingreso y egreso de las personas adentro del establecimiento.
-
-2. Control de pecera
-
-Sistema que es capaz de medir la temperatura en la que se encuentra el agua de la pecera, oxigenarla, alimentar de manera automatica y que cuenta con un medidor de pH. Cuando el sistema detecte que la temperatura se encuentra fuera de los límites, este avisara por medio de un buzzer.
+Se solicita una aplicacion que permita al usuario poder comprar por medio del celurar los combos que presenten la empresa, donde el usuario solo acercara el telefono al area a acceder y se descuente hasta llegar el punto de terminar los tickets comprados o en dado caso la persona compre el combo sin limites hasta que termine el dia autorizado, en el cual el usuario hara la compra por medio de su celular con su tarjeta de debito/credito de forma completamente electronica.
 
 ### ` `Valores de trabajo<a name="valores"/>
 
@@ -117,12 +112,6 @@ Los valores que deben ser practicados por todos los miembros involucrados en el 
 1. Respeto
 1. Responsabilidad 
 2. Disciplina 
-5. Transparencia
-
-
-
-
-
 
 
 ## ` `Calendario de revisiones<a name="Calendario"/>
@@ -132,9 +121,10 @@ Los valores que deben ser practicados por todos los miembros involucrados en el 
 
 |  Fecha 	| Version  	| Descripcion  	|
 |---	|---	|---	|
-|  15/05/2021 	| 1.0  	| Primera presentacion de avances del proyecto  	|
-|  22/05/2021 	| 1.1  	| Segunda presentacion de avances del proyecto  	|
-|  29/05/2021 	| 1.2  	| Presentacion del proyecto final  	|
+|  11/06/2021 	| 1.0  	| Presentacion del producto y toma de datos	|
+|  19/06/2021 	| 1.1  	| Segunda presentacion del producto y muestra de vistas del producto	|
+|  26/07/2021 	| 1.2  	| Tercera presentacion del producto mostrando los avances ya desarrollados  	|
+|  23/08/2021 	| 1.3  	| Cuarta presentacion final del proyecto  	|
 
 
 ## ` `Cronograma de actividades<a name="Actividades"/>
