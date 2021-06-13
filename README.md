@@ -20,6 +20,7 @@
     - [Pila de sprint](#pilasprint)
 * [Cuadros sobre el desarrollo del proyecto](#desproy)
 * [Desarrollo de sprint](#dessprint)
+* [Modulo de prducto](#modulo)
 * [Prototipo de interfaz](#Prototipo)
     - [Vista de usuario](#Usuario)
     - [Vista de admin](#admin)
