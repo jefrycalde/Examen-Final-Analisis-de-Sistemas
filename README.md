@@ -213,29 +213,29 @@ Responsabilidades del equipo de desarrollo de base de datos
  
  ![](https://files.catbox.moe/dl7uez.png)
  
- ![](https://files.catbox.moe/iy8q6p.png)
+ ![](https://files.catbox.moe/v8e6vi.png)
  
- ![](https://files.catbox.moe/v6wtub.png)
+ ![](https://files.catbox.moe/mn0vxo.png)
  
- ![](https://files.catbox.moe/bnsfy2.png)
+ ![](https://files.catbox.moe/bjpcfd.png)
  
- ![](https://files.catbox.moe/mg3ao3.png)
+ ![](https://files.catbox.moe/9j1e1s.png)
  
- ![](https://files.catbox.moe/thbatx.png)
+ ![](https://files.catbox.moe/sepa9u.png)
  
- ![](https://files.catbox.moe/del0d0.png)
+ ![](https://files.catbox.moe/ao475w.png)
  
- ![](https://files.catbox.moe/hsoygg.png)
+ ![](https://files.catbox.moe/425pqc.png)
  
- ![](https://files.catbox.moe/ndc8yx.png)
+ ![](https://files.catbox.moe/pybn7p.png)
   
- ![](https://files.catbox.moe/fczl2w.png)
+ ![](https://files.catbox.moe/kl88wz.png)
    
- ![](https://files.catbox.moe/t7x1o0.png)
+ ![](https://files.catbox.moe/7jk6fn.png)
     
- ![](https://files.catbox.moe/31os2p.png)
+ ![](https://files.catbox.moe/5kki39.png)
  
- ![](https://files.catbox.moe/31os2p.png)
+ ![](https://files.catbox.moe/jz0giw.png)
 
 ## ` `Desarrollo de Sprint<a name="dessprint"/>
 
