@@ -25,7 +25,7 @@
     - [Vista de usuario](#Usuario)
     - [Vista de admin](#admin)
 * [Diagrama de relacion](#relacion)
-    - [Diagrama de relacion de los modulos](#diagrama relacion)
+    - [Diagrama de relacion de los modulos](#diagramarelacion)
 
 
 ## ` `Personal y roles del proyecto<a name="roles"/>
@@ -298,6 +298,6 @@ El desarrollo de los Sprints fueron elaborados para semanas para la asignacion l
 
 ## ` `Diagrama de relacion<a name="relacion"/>
 
-### ` `Diagrama de relacion de los modulos<a name="diagrama relacion"/>
+### ` `Diagrama de relacion de los modulos<a name="diagramarelacion"/>
 
 ![](https://files.catbox.moe/uhh80a.png)
