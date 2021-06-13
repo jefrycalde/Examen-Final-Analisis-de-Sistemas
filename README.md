@@ -19,7 +19,8 @@
     - [Pila de sprint](#pilasprint)
 * [Cuadros sobre el desarrollo del proyecto](#desproy)
 * [Desarrollo de sprint](#dessprint)
-
+* [Prototipo de interfaz](#Prototipo)
+    - [Vista de usuario](#Usuario)
 
 ## ` `Personal y roles del proyecto<a name="roles"/>
 
