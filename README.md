@@ -121,11 +121,13 @@ Los valores que deben ser practicados por todos los miembros involucrados en el 
 |  26/07/2021 	| 1.2  	| Tercera presentacion del producto mostrando los avances ya desarrollados  	|
 |  23/08/2021 	| 1.3  	| Cuarta presentacion final del proyecto  	|
 
+## ` `Calendarios de actividades<a name="calendarioacti"/>
+
+![](https://files.catbox.moe/ea5fsd.png)
+![](https://files.catbox.moe/vt80pr.png)
+![](https://files.catbox.moe/a7r0lk.png)
 
 ## ` `Cronograma de actividades<a name="Actividades"/>
-
-
-
 
 |  Sprints 	    | Actividad  |  Screenshot  	|
 |---	        |---	     |---	            |
@@ -211,7 +213,6 @@ Responsabilidades del equipo de desarrollo de base de datos
 
 ## ` `Cuadros sobre el desarrollo del proyecto<a name="desproy"/>
  
- ![](https://files.catbox.moe/dl7uez.png)
  
  ![](https://files.catbox.moe/v8e6vi.png)
  
