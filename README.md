@@ -24,6 +24,8 @@
 * [Prototipo de interfaz](#Prototipo)
     - [Vista de usuario](#Usuario)
     - [Vista de admin](#admin)
+* [Diagrama de relacion](#relacion)
+    - [Diagrama de relacion de los modulos](#diagrama relacion)
 
 
 ## ` `Personal y roles del proyecto<a name="roles"/>
@@ -76,6 +78,7 @@ Se debera tener un corte de caja diario para la visualizacion de las ganancias d
 * Estaditica de los juegos
 
 Se mostrara una estadistica del uso de los juegos y de las tickets de los usuarios que se selecionaron para el uso de hay y llevar un mejor manero de los juegos que se utilizan mas.
+
 
 
 ### ` `Proposito del documento<a name="propocitodocumento"/>
@@ -292,3 +295,9 @@ El desarrollo de los Sprints fueron elaborados para semanas para la asignacion l
 ![](https://files.catbox.moe/586zrk.png)
 ![](https://files.catbox.moe/1o3xq5.png)
 ![](https://files.catbox.moe/ps7ccu.png)
+
+## ` `Diagrama de relacion<a name="relacion"/>
+
+### ` `Diagrama de relacion de los modulos<a name="diagrama relacion"/>
+
+![](https://files.catbox.moe/uhh80a.png)
