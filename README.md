@@ -272,3 +272,11 @@ El desarrollo de los Sprints fueron elaborados para semanas para la asignacion l
 ![](https://files.catbox.moe/ztfnl2.png)
 ![](https://files.catbox.moe/gg6st6.png)
 ![](https://files.catbox.moe/4s0gwf.png)
+
+
+### ` `Vista de admin<a name="admin"/>
+
+![](https://files.catbox.moe/k0hpz9.png)
+![](https://files.catbox.moe/586zrk.png)
+![](https://files.catbox.moe/1o3xq5.png)
+![](https://files.catbox.moe/ps7ccu.png)
