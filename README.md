@@ -18,12 +18,7 @@
     - [Pila de sprint](#pilasprint)
 * [Cuadros sobre el desarrollo del proyecto](#desproy)
 * [Desarrollo de sprint](#dessprint)
-* [Diagramas y circuitos del proyecto](#diagramas)
-    - [Diagrama y circuitos de aforo](#aforo)
-    - [Diagrama y circuitos de temperatura](#temperatura)
-    - [Diagrama y circuitos de pecera](#pecera)
-* [Presupuesto del proyecto](#presupuesto)
-    
+
 
 ## ` `Personal y roles del proyecto<a name="roles"/>
 
