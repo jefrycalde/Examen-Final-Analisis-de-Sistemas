@@ -22,6 +22,8 @@
 * [Desarrollo de sprint](#dessprint)
 * [Prototipo de interfaz](#Prototipo)
     - [Vista de usuario](#Usuario)
+    - [Vista de admin](#admin)
+
 
 ## ` `Personal y roles del proyecto<a name="roles"/>
 
